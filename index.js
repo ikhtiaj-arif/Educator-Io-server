@@ -26,6 +26,12 @@ app.get("/:id", (req, res) =>{
     
 })
 
+app.get('/details/:id', (req, res)=> {
+    const id = req.params.id;
+    const match = coursesCollection.find(e => e._id ===id)
+    res.send(match)
+}) 
+
 
 app.listen(Port, ()=>{
     console.log('server is running', Port)
