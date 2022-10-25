@@ -16,8 +16,14 @@ app.get('/', (req, res) =>{
 
 app.get("/:id", (req, res) =>{
     const id = req.params.id;
-    const match = coursesCollection.filter(e => e.id === id);
+    if(id === '0') {
+        res.send(coursesCollection)
+    }
+    else{
+        const match = coursesCollection.filter(e => e.id === id);
     res.send(match)
+    }
+    
 })
 
 

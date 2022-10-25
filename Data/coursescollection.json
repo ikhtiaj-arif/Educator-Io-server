@@ -1,7 +1,7 @@
 [
   {
-    "id": "1",
-    "cover": "../images/courses/c1.png",
+    "id": "5",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFNOuPKKjms7yP5xr16TYeYX5Fk6cQmNVimgLQmeuSH3MrWkCvdvC9ghT1uV5ubeQoX-I&usqp=CAU",
     "coursesName": "Introducing to Software Engineering",
     "courTeacher": [
       {
@@ -15,7 +15,7 @@
   },
   {
     "id": "1",
-    "cover": "../images/courses/c2.png",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Jv8zrf4SOQRmizzqGbqHBQ23eeE5zYpKir4C1Xy_oDv3rzSQY1qwCsFc7j4pXefNBHw&usqp=CAU",
     "coursesName": "Enhancing Adobe Photoshop CC 2020 Skills",
     "courTeacher": [
       {
@@ -27,37 +27,10 @@
     "priceAll": "$200 All Course",
     "pricePer": "$25 per month"
   },
-  {
-    "id": "2",
-    "cover": "../images/courses/c2.png",
-    "coursesName": "Enhancing Adobe Photoshop CC 2020 Skills",
-    "courTeacher": [
-      {
-        "dcover": "./images/back.webp",
-        "name": "by Ram Gurung",
-        "totalTime": "30 lectures (125 hrs)"
-      }
-    ],
-    "priceAll": "$200 All Course",
-    "pricePer": "$25 per month"
-  },
-  {
-    "id": "2",
-    "cover": "../images/courses/c3.png",
-    "coursesName": "HTML, CSS, and Javascript for Web Developers",
-    "courTeacher": [
-      {
-        "dcover": "./images/back.webp",
-        "name": "by Saroj Nepal",
-        "totalTime": "50 lectures (50 hrs)"
-      }
-    ],
-    "priceAll": "$50 All Course",
-    "pricePer": "$5 per month"
-  },
+
   {
     "id": "3",
-    "cover": "../images/courses/c3.png",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU8PN7Qt1OgplAbYxA0abOnjr8d27w6XvfUcYn4oPhX_vddhx-AGu7VVkguvJ0p0yjFu0&usqp=CAU",
     "coursesName": "HTML, CSS, and Javascript for Web Developers",
     "courTeacher": [
       {
@@ -70,9 +43,23 @@
     "pricePer": "$5 per month"
   },
   {
-    "id": "4",
-    "cover": "../images/courses/c4.png",
-    "coursesName": "Introducing to Programming with WordPress",
+    "id": "1",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU8PN7Qt1OgplAbYxA0abOnjr8d27w6XvfUcYn4oPhX_vddhx-AGu7VVkguvJ0p0yjFu0&usqp=CAU",
+    "coursesName": "HTML, CSS, and Javascript for Web Developers",
+    "courTeacher": [
+      {
+        "dcover": "./images/back.webp",
+        "name": "by Saroj Nepal",
+        "totalTime": "50 lectures (50 hrs)"
+      }
+    ],
+    "priceAll": "$50 All Course",
+    "pricePer": "$5 per month"
+  },
+  {
+    "id": "5",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT30pQMxcxACiWWERgZP-Pxy1OI-iDs4LDDC-kTVGIlAqwmtfknYB3FrcMe1yyZaTYBiTQ&usqp=CAU",
+    "coursesName": "Learn Programming With Python",
     "courTeacher": [
       {
         "dcover": "./images/back.webp",
@@ -84,8 +71,8 @@
     "pricePer": "$3 per month"
   },
   {
-    "id": "4",
-    "cover": "../images/courses/c5.png",
+    "id": "3",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT30pQMxcxACiWWERgZP-Pxy1OI-iDs4LDDC-kTVGIlAqwmtfknYB3FrcMe1yyZaTYBiTQ&usqp=CAU",
     "coursesName": "Introducing to Programming with ReactJS",
     "courTeacher": [
       {
@@ -98,8 +85,8 @@
     "pricePer": "$30 per month"
   },
   {
-    "id": "4",
-    "cover": "../images/courses/c6.png",
+    "id": "3",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ytUNhAm3DPFETMtoij7YapRNa7kzFVKPf84g1zg-YZvRkNdI4nqJFDibDZXuXJgnDj8&usqp=CAU",
     "coursesName": "Learn Frontend Programming Language",
     "courTeacher": [
       {
@@ -113,7 +100,7 @@
   },
   {
     "id": "5",
-    "cover": "../images/courses/c7.png",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ytUNhAm3DPFETMtoij7YapRNa7kzFVKPf84g1zg-YZvRkNdI4nqJFDibDZXuXJgnDj8&usqp=CAU",
     "coursesName": "Introducing to with HTML / CSS",
     "courTeacher": [
       {
@@ -127,7 +114,7 @@
   },
   {
     "id": "5",
-    "cover": "../images/courses/c8.png",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Jv8zrf4SOQRmizzqGbqHBQ23eeE5zYpKir4C1Xy_oDv3rzSQY1qwCsFc7j4pXefNBHw&usqp=CAU",
     "coursesName": "Introducing to with JAVA",
     "courTeacher": [
       {
@@ -140,9 +127,177 @@
     "pricePer": "$40 per month"
   },
   {
-    "id": 9,
-    "cover": "../images/courses/c9.png",
+    "id": "1",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFNOuPKKjms7yP5xr16TYeYX5Fk6cQmNVimgLQmeuSH3MrWkCvdvC9ghT1uV5ubeQoX-I&usqp=CAU",
     "coursesName": "Introducing to with HTML / CSS / JAVASCRIPT",
+    "courTeacher": [
+      {
+        "dcover": "./images/back.webp",
+        "name": "by Petter",
+        "totalTime": "50 lectures (50 hrs)"
+      }
+    ],
+    "priceAll": "$20 All Course",
+    "pricePer": "$3 per month"
+  },
+  {
+    "id": "2",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE6CsrYBlU_LnUniGN0oWVS8bgzrC_lNY4_f2hShwWiWtWBls33CAGiKJ7pGL2sfxns44&usqp=CAU",
+    "coursesName": "How to Write Your First Song",
+    "courTeacher": [
+      {
+        "dcover": "./images/back.webp",
+        "name": "by Petter",
+        "totalTime": "50 lectures (50 hrs)"
+      }
+    ],
+    "priceAll": "$20 All Course",
+    "pricePer": "$3 per month"
+  },
+  {
+    "id": "2",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHwE4UVJHNgnV0olK-5OORnwbKQc4qyOjoIULLTp3dQMjbwnKx4wtPntvyNfw98aZM-QY&usqp=CAU",
+    "coursesName": "Sustainability in Architecture: An Interdisciplinary Introduction",
+    "courTeacher": [
+      {
+        "dcover": "./images/back.webp",
+        "name": "by Petter",
+        "totalTime": "50 lectures (50 hrs)"
+      }
+    ],
+    "priceAll": "$20 All Course",
+    "pricePer": "$3 per month"
+  },
+  {
+    "id": "2",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGTyZsH1Ov3357Jtyq436Q5KONiiE2zZEw7tv2H7xT9SzHMp4vR6pJCSUHM_CCRFs4b9Y&usqp=CAU",
+    "coursesName": "Innovation: the Fashion Industry",
+    "courTeacher": [
+      {
+        "dcover": "./images/back.webp",
+        "name": "by Petter",
+        "totalTime": "50 lectures (50 hrs)"
+      }
+    ],
+    "priceAll": "$20 All Course",
+    "pricePer": "$3 per month"
+  },
+  {
+    "id": "4",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWuyiq52jW_hZ_NE71J0qcSAChEEpsSt645ZE_lNmn5LG0A5X60UvugVB47PEgQ8fp8Ec&usqp=CAU",
+    "coursesName": "The Chinese Railroad Worker Experience in Terrace, Utah",
+    "courTeacher": [
+      {
+        "dcover": "./images/back.webp",
+        "name": "by Petter",
+        "totalTime": "50 lectures (50 hrs)"
+      }
+    ],
+    "priceAll": "$20 All Course",
+    "pricePer": "$3 per month"
+  },
+  {
+    "id": "4",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPG5xu4RRViGHWZKhiEvmsilbNo-VoadxTlm7DwBBTTn8j_IdY4gIBTJzP73roGY-ymp4&usqp=CAU",
+    "coursesName": "Collaborating with Diné Communities",
+    "courTeacher": [
+      {
+        "dcover": "./images/back.webp",
+        "name": "by Petter",
+        "totalTime": "50 lectures (50 hrs)"
+      }
+    ],
+    "priceAll": "$20 All Course",
+    "pricePer": "$3 per month"
+  },
+  {
+    "id": "4",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFUaNe4FjnaYwpAsbpkFw-6Qsv7LzZHQkjiUotEL9aDhAJN0lidIdbj1empYeebdCob0&usqp=CAU",
+    "coursesName": "Innovation: the Fashion Industry",
+    "courTeacher": [
+      {
+        "dcover": "./images/back.webp",
+        "name": "by Petter",
+        "totalTime": "50 lectures (50 hrs)"
+      }
+    ],
+    "priceAll": "$20 All Course",
+    "pricePer": "$3 per month"
+  },
+  {
+    "id": "4",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWuyiq52jW_hZ_NE71J0qcSAChEEpsSt645ZE_lNmn5LG0A5X60UvugVB47PEgQ8fp8Ec&usqp=CAU",
+    "coursesName": "Diné Archaeology on Chacra Mesa",
+    "courTeacher": [
+      {
+        "dcover": "./images/back.webp",
+        "name": "by Petter",
+        "totalTime": "50 lectures (50 hrs)"
+      }
+    ],
+    "priceAll": "$20 All Course",
+    "pricePer": "$3 per month"
+  },
+  {
+    "id": "6",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Jv8zrf4SOQRmizzqGbqHBQ23eeE5zYpKir4C1Xy_oDv3rzSQY1qwCsFc7j4pXefNBHw&usqp=CAU",
+    "coursesName": "Graphic Design Masterclass Intermediate: The NEXT Level",
+    "courTeacher": [
+      {
+        "dcover": "./images/back.webp",
+        "name": "by Petter",
+        "totalTime": "50 lectures (50 hrs)"
+      }
+    ],
+    "priceAll": "$20 All Course",
+    "pricePer": "$3 per month"
+  },
+  {
+    "id": "6",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU8PN7Qt1OgplAbYxA0abOnjr8d27w6XvfUcYn4oPhX_vddhx-AGu7VVkguvJ0p0yjFu0&usqp=CAU",
+    "coursesName": "Enhancing Adobe Photoshop CC 2020 Skills",
+    "courTeacher": [
+      {
+        "dcover": "./images/back.webp",
+        "name": "by Petter",
+        "totalTime": "50 lectures (50 hrs)"
+      }
+    ],
+    "priceAll": "$20 All Course",
+    "pricePer": "$3 per month"
+  },
+  {
+    "id": "7",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-mm5Ms347mZc87zDOBKs1GT7nvEwrhj-ULyohMLBrnrT85F5bysagG9U7wlT3qv4q5dc&usqp=CAU",
+    "coursesName": "Adding Value Through Complements",
+    "courTeacher": [
+      {
+        "dcover": "./images/back.webp",
+        "name": "by Petter",
+        "totalTime": "50 lectures (50 hrs)"
+      }
+    ],
+    "priceAll": "$20 All Course",
+    "pricePer": "$3 per month"
+  },
+  {
+    "id": "7",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8sRPYOip1KdXqXY5r2GvEUwtK-V5XxL4xjmmwMxhWZN5vgtl9CZdbw611_HU5q_jxcG0&usqp=CAU",
+    "coursesName": "Competing with Network Effects",
+    "courTeacher": [
+      {
+        "dcover": "./images/back.webp",
+        "name": "by Petter",
+        "totalTime": "50 lectures (50 hrs)"
+      }
+    ],
+    "priceAll": "$20 All Course",
+    "pricePer": "$3 per month"
+  },
+  {
+    "id": "7",
+    "cover": "https://prod-discovery.edx-cdn.org/media/course/image/1c30e9b3-78ee-4c57-9af9-922153073d99-9ee0f4e21475.small.jpg",
+    "coursesName": " Mastering Productivity",
     "courTeacher": [
       {
         "dcover": "./images/back.webp",
