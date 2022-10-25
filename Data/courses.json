@@ -1,0 +1,38 @@
+[
+    {
+      "id": "01",
+      "name": "UI/UX Design Courses"
+    },
+    {
+      "id": "02",
+      "name": "Art & Design"
+    },
+    {
+      "id": "03",
+      "name": "Computer Science"
+    },
+    {
+      "id": "04",
+      "name": "History & Archeologic"
+    },
+    {
+      "id": "05",
+      "name": "Software Engineering"
+    },
+    {
+      "id": "06",
+      "name": "Information Software"
+    },
+    {
+      "id": "07",
+      "name": "Graphic Design"
+    },
+    {
+      "id": "08",
+      "name": "Business Administration"
+    },
+    {
+      "id": "00",
+      "name": "All Courses"
+    }
+  ]
