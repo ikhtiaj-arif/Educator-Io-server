@@ -6,14 +6,18 @@ app.use(cors());
 const Port = process.env.port || 5000;
 
 const courses = require("./Data/courses.json");
-
+const coursesCollection = require('./Data/coursescollection.json')
 
 app.get('/', (req, res) =>{
-    res.send('working')
+    res.send(courses)
 })
 
-app.get("/courses", (req, res) =>{
-    res.send(courses)
+
+
+app.get("/:id", (req, res) =>{
+    const id = req.params.id;
+    const match = coursesCollection.filter(e => e.id === id);
+    res.send(match)
 })
 
 
