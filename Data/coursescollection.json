@@ -4,6 +4,20 @@
     "_id": "xsxs1",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFNOuPKKjms7yP5xr16TYeYX5Fk6cQmNVimgLQmeuSH3MrWkCvdvC9ghT1uV5ubeQoX-I&usqp=CAU",
     "coursesName": "Introducing to Software Engineering",
+    "description": "Computational Science” is actually a collection of many subfields, which develop specialized algorithms for data , computational economics, computational social science, computational chemistry, computational physics (e.g. fluid dynamics.",
+    "rating": {
+      "rate": 4.9,
+      "count": 550
+    },
+    "points": [
+      " Systems Fundamentals",
+      "Algorithms and Complexity",
+      "Computational Science",
+      "Programming Languages",
+      "Architecture and Organization",
+      "Professional Practice"
+    ],
+  
     "courTeacher": [
       {
         "dcover": "./images/back.webp",
@@ -11,14 +25,31 @@
         "totalTime": "50 lectures (190 hrs)"
       }
     ],
-    "priceAll": "$100 All Course",
-    "pricePer": "$15 per month"
+    "priceAll": "$100 ",
+    "pricePer": "$15 "
   },
   {
     "id": "1",
     "_id": "xsxs2",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Jv8zrf4SOQRmizzqGbqHBQ23eeE5zYpKir4C1Xy_oDv3rzSQY1qwCsFc7j4pXefNBHw&usqp=CAU",
     "coursesName": "Enhancing Adobe Photoshop CC 2020 Skills",
+    
+    "description": "An Art & Design degree includes concept creation, practical art or design skills and the implementation of industry-changing designs.",
+    "rating": {
+      "rate": 4.9,
+      "count": 550
+    },
+    "points": [
+      "Algorithms and Complexity",
+      "Architecture and Organization",
+      "Computational Science",
+      "Graphics and Visualization",
+      "Human-Computer Interaction",
+      "Programming Languages",
+      " Systems Fundamentals",
+      "Professional Practice"
+    ],
+    
     "courTeacher": [
       {
         "dcover": "./images/back.webp",
@@ -26,8 +57,8 @@
         "totalTime": "30 lectures (125 hrs)"
       }
     ],
-    "priceAll": "$200 All Course",
-    "pricePer": "$25 per month"
+    "priceAll": "$200 ",
+    "pricePer": "$25 "
   },
 
   {
@@ -35,6 +66,24 @@
     "_id": "xsxs3",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU8PN7Qt1OgplAbYxA0abOnjr8d27w6XvfUcYn4oPhX_vddhx-AGu7VVkguvJ0p0yjFu0&usqp=CAU",
     "coursesName": "HTML, CSS, and Javascript for Web Developers",
+
+    "description": "Computational Science” is actually a collection of many subfields, which develop specialized algorithms for data analysis and simulation to aid the progress of particular sciences. These include computational biology, computational economics, computational social science, computational chemistry, computational physics (e.g. fluid dynamics.",
+  "rating": {
+    "rate": 4.9,
+    "count": 550
+  },
+  "points": [
+    "Algorithms and Complexity",
+    "Architecture and Organization",
+    "Computational Science",
+    "Graphics and Visualization",
+    "Human-Computer Interaction",
+    "Programming Languages",
+    " Systems Fundamentals",
+    "Professional Practice"
+  ],
+
+
     "courTeacher": [
       {
         "dcover": "./images/back.webp",
@@ -42,14 +91,29 @@
         "totalTime": "50 lectures (50 hrs)"
       }
     ],
-    "priceAll": "$50 All Course",
-    "pricePer": "$5 per month"
+    "priceAll": "$50 ",
+    "pricePer": "$5 "
   },
   {
     "id": "1",
     "_id": "xsxs4",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU8PN7Qt1OgplAbYxA0abOnjr8d27w6XvfUcYn4oPhX_vddhx-AGu7VVkguvJ0p0yjFu0&usqp=CAU",
     "coursesName": "HTML, CSS, and Javascript for Web Developers",
+
+    "description": "This topic encompasses the business of UX, as well as the business contexts in which UX professionals work.",
+    "rating": {
+      "rate": 4.6,
+      "count": 400
+    },
+    "points": [
+      "Hiring UX Professionals ",
+      "Business of UX ",
+      "UX Leadership",
+      "Project Management",
+      "Careers in UX "
+    ],
+
+
     "courTeacher": [
       {
         "dcover": "./images/back.webp",
@@ -57,14 +121,27 @@
         "totalTime": "50 lectures (50 hrs)"
       }
     ],
-    "priceAll": "$50 All Course",
-    "pricePer": "$5 per month"
+    "priceAll": "$50 ",
+    "pricePer": "$5 "
   },
   {
     "id": "5",
     "_id": "xsxs5",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT30pQMxcxACiWWERgZP-Pxy1OI-iDs4LDDC-kTVGIlAqwmtfknYB3FrcMe1yyZaTYBiTQ&usqp=CAU",
     "coursesName": "Learn Programming With Python",
+    "description": "Business of UX, as well as the business contexts in which UX professionals work.",
+    "rating": {
+      "rate": 4.6,
+      "count": 400
+    },
+    "points": [
+      "Business of UX ",
+      "Careers in UX ",
+      "Hiring UX Professionals ",
+      "UX Leadership",
+      "Careers in UX ",
+      "Project Management"
+    ],
     "courTeacher": [
       {
         "dcover": "./images/back.webp",
@@ -72,14 +149,30 @@
         "totalTime": "20 lectures (20 hrs)"
       }
     ],
-    "priceAll": "$30 All Course",
-    "pricePer": "$3 per month"
+    "priceAll": "$30 ",
+    "pricePer": "$3 "
   },
   {
     "id": "3",
     "_id": "xsxs6",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT30pQMxcxACiWWERgZP-Pxy1OI-iDs4LDDC-kTVGIlAqwmtfknYB3FrcMe1yyZaTYBiTQ&usqp=CAU",
     "coursesName": "Introducing to Programming with ReactJS",
+
+    "description": "Computational Science” is actually a collection of many subfields, which develop specialized algorithms for data , computational economics, computational social science, computational chemistry, computational physics (e.g. fluid dynamics.",
+  "rating": {
+    "rate": 4.9,
+    "count": 550
+  },
+  "points": [
+    " Systems Fundamentals",
+    "Algorithms and Complexity",
+    "Computational Science",
+    "Programming Languages",
+    "Architecture and Organization",
+    "Professional Practice"
+  ],
+
+
     "courTeacher": [
       {
         "dcover": "./images/back.webp",
@@ -87,14 +180,31 @@
         "totalTime": "100 lectures (150 hrs)"
       }
     ],
-    "priceAll": "$300 All Course",
-    "pricePer": "$30 per month"
+    "priceAll": "$300 ",
+    "pricePer": "$30 "
   },
   {
     "id": "3",
     "_id": "xsxs7",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ytUNhAm3DPFETMtoij7YapRNa7kzFVKPf84g1zg-YZvRkNdI4nqJFDibDZXuXJgnDj8&usqp=CAU",
     "coursesName": "Learn Frontend Programming Language",
+   
+    "description": "Computational Science” is actually a collection of many subfields, which develop specialized algorithms for data analysis and simulation to aid .",
+    "rating": {
+      "rate": 4.9,
+      "count": 550
+    },
+    "points": [
+      "Computational Science",
+      "Architecture and Organization",
+      "Algorithms and Complexity",
+      "Human-Computer Interaction",
+      "Programming Languages",
+      " Systems Fundamentals",
+      "Graphics and Visualization",
+      "Professional Practice"
+    ],
+   
     "courTeacher": [
       {
         "dcover": "./images/back.webp",
@@ -102,14 +212,27 @@
         "totalTime": "200 lectures (300 hrs)"
       }
     ],
-    "priceAll": "$500 All Course",
-    "pricePer": "$80 per month"
+    "priceAll": "$500 ",
+    "pricePer": "$80 "
   },
   {
     "id": "5",
     "_id": "xsxs8",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ytUNhAm3DPFETMtoij7YapRNa7kzFVKPf84g1zg-YZvRkNdI4nqJFDibDZXuXJgnDj8&usqp=CAU",
     "coursesName": "Introducing to with HTML / CSS",
+    "description": "Business of UX, as well as the business contexts in which UX professionals work.",
+    "rating": {
+      "rate": 4.6,
+      "count": 400
+    },
+    "points": [
+      "Business of UX ",
+      "Careers in UX ",
+      "Hiring UX Professionals ",
+      "UX Leadership",
+      "Careers in UX ",
+      "Project Management"
+    ],
     "courTeacher": [
       {
         "dcover": "./images/back.webp",
@@ -117,14 +240,28 @@
         "totalTime": "20 lectures (50 hrs)"
       }
     ],
-    "priceAll": "$20 All Course",
-    "pricePer": "$2 per month"
+    "priceAll": "$20 ",
+    "pricePer": "$2 "
   },
   {
     "id": "5",
     "_id": "xsxs9",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Jv8zrf4SOQRmizzqGbqHBQ23eeE5zYpKir4C1Xy_oDv3rzSQY1qwCsFc7j4pXefNBHw&usqp=CAU",
     "coursesName": "Introducing to with JAVA",
+    "description": "Computational Science” is actually a collection of many subfields, which develop specialized algorithms for data , computational economics, computational social science, computational chemistry, computational physics (e.g. fluid dynamics.",
+    "rating": {
+      "rate": 4.9,
+      "count": 550
+    },
+    "points": [
+      " Systems Fundamentals",
+      "Algorithms and Complexity",
+      "Computational Science",
+      "Programming Languages",
+      "Architecture and Organization",
+      "Professional Practice"
+    ],
+  
     "courTeacher": [
       {
         "dcover": "./images/back.webp",
@@ -132,14 +269,30 @@
         "totalTime": "80 lectures (200 hrs)"
       }
     ],
-    "priceAll": "$200 All Course",
-    "pricePer": "$40 per month"
+    "priceAll": "$200 ",
+    "pricePer": "$40 "
   },
   {
     "id": "1",
     "_id": "xsxs11",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFNOuPKKjms7yP5xr16TYeYX5Fk6cQmNVimgLQmeuSH3MrWkCvdvC9ghT1uV5ubeQoX-I&usqp=CAU",
     "coursesName": "Introducing to with HTML / CSS / JAVASCRIPT",
+    "description": "Business of UX, as well as the business contexts in which UX professionals work.",
+    "rating": {
+      "rate": 4.6,
+      "count": 400
+    },
+    "points": [
+      "Business of UX ",
+      "Careers in UX ",
+      "Hiring UX Professionals ",
+      "UX Leadership",
+      "Careers in UX ",
+      "Project Management"
+    ],
+  
+
+
     "courTeacher": [
       {
         "dcover": "./images/back.webp",
@@ -147,14 +300,26 @@
         "totalTime": "50 lectures (50 hrs)"
       }
     ],
-    "priceAll": "$20 All Course",
-    "pricePer": "$3 per month"
+    "priceAll": "$20 ",
+    "pricePer": "$3 "
   },
   {
     "id": "2",
     "_id": "xsxs12",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE6CsrYBlU_LnUniGN0oWVS8bgzrC_lNY4_f2hShwWiWtWBls33CAGiKJ7pGL2sfxns44&usqp=CAU",
     "coursesName": "How to Write Your First Song",
+    "description": "An Art & Design degree includes concept creation, practical art or design skills and the implementation of industry-changing designs.",
+    "rating": {
+      "rate": 4.7,
+      "count": 300
+    },
+    "points": [
+      "Creative Technology BSc",
+      "Fashion Jewellery BA ",
+      "Fine Art BFA/BA",
+      "Graphic Design BA",
+      "History, Communication and Curation"
+    ],
     "courTeacher": [
       {
         "dcover": "./images/back.webp",
@@ -162,14 +327,28 @@
         "totalTime": "50 lectures (50 hrs)"
       }
     ],
-    "priceAll": "$20 All Course",
-    "pricePer": "$3 per month"
+    "priceAll": "$20 ",
+    "pricePer": "$3 "
   },
   {
     "id": "2",
     "_id": "xsxs13",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHwE4UVJHNgnV0olK-5OORnwbKQc4qyOjoIULLTp3dQMjbwnKx4wtPntvyNfw98aZM-QY&usqp=CAU",
     "coursesName": "Sustainability in Architecture: An Interdisciplinary Introduction",
+
+    "description": "An Art & Design degree includes concept creation, practical art or design skills and the implementation of industry-changing designs.",
+    "rating": {
+      "rate": 4.7,
+      "count": 300
+    },
+    "points": [
+      "Creative Technology BSc",
+      "Fashion Jewellery BA ",
+      "Fine Art BFA/BA",
+      "Graphic Design BA",
+      "History, Communication and Curation"
+    ],
+
     "courTeacher": [
       {
         "dcover": "./images/back.webp",
@@ -177,14 +356,28 @@
         "totalTime": "50 lectures (50 hrs)"
       }
     ],
-    "priceAll": "$20 All Course",
-    "pricePer": "$3 per month"
+    "priceAll": "$20 ",
+    "pricePer": "$3 "
   },
   {
     "id": "2",
     "_id": "xsxs14",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGTyZsH1Ov3357Jtyq436Q5KONiiE2zZEw7tv2H7xT9SzHMp4vR6pJCSUHM_CCRFs4b9Y&usqp=CAU",
     "coursesName": "Innovation: the Fashion Industry",
+
+    "description": "An Art & Design degree includes concept creation, practical art or design skills and the implementation of industry-changing designs.",
+    "rating": {
+      "rate": 4.7,
+      "count": 300
+    },
+    "points": [
+      "Creative Technology BSc",
+      "Fashion Jewellery BA ",
+      "Fine Art BFA/BA",
+      "Graphic Design BA",
+      "History, Communication and Curation"
+    ],
+
     "courTeacher": [
       {
         "dcover": "./images/back.webp",
@@ -192,14 +385,26 @@
         "totalTime": "50 lectures (50 hrs)"
       }
     ],
-    "priceAll": "$20 All Course",
-    "pricePer": "$3 per month"
+    "priceAll": "$20 ",
+    "pricePer": "$3 "
   },
   {
     "id": "4",
     "_id": "xsxs15",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWuyiq52jW_hZ_NE71J0qcSAChEEpsSt645ZE_lNmn5LG0A5X60UvugVB47PEgQ8fp8Ec&usqp=CAU",
     "coursesName": "The Chinese Railroad Worker Experience in Terrace, Utah",
+    "description": "An Art & Design degree includes concept creation, practical art or design skills and the implementation of industry-changing designs.",
+    "rating": {
+      "rate": 4.7,
+      "count": 300
+    },
+    "points": [
+      "Creative Technology BSc",
+      "Fashion Jewellery BA ",
+      "Fine Art BFA/BA",
+      "Graphic Design BA",
+      "History, Communication and Curation"
+    ],
     "courTeacher": [
       {
         "dcover": "./images/back.webp",
@@ -207,14 +412,26 @@
         "totalTime": "50 lectures (50 hrs)"
       }
     ],
-    "priceAll": "$20 All Course",
-    "pricePer": "$3 per month"
+    "priceAll": "$20 ",
+    "pricePer": "$3 "
   },
   {
     "id": "4",
     "_id": "xsxs16",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPG5xu4RRViGHWZKhiEvmsilbNo-VoadxTlm7DwBBTTn8j_IdY4gIBTJzP73roGY-ymp4&usqp=CAU",
     "coursesName": "Collaborating with Diné Communities",
+    "description": "An Art & Design degree includes concept creation, practical art or design skills and the implementation of industry-changing designs.",
+    "rating": {
+      "rate": 4.7,
+      "count": 300
+    },
+    "points": [
+      "Creative Technology BSc",
+      "Fashion Jewellery BA ",
+      "Fine Art BFA/BA",
+      "Graphic Design BA",
+      "History, Communication and Curation"
+    ],
     "courTeacher": [
       {
         "dcover": "./images/back.webp",
@@ -222,14 +439,26 @@
         "totalTime": "50 lectures (50 hrs)"
       }
     ],
-    "priceAll": "$20 All Course",
-    "pricePer": "$3 per month"
+    "priceAll": "$20 ",
+    "pricePer": "$3 "
   },
   {
     "id": "4",
     "_id": "xsxs17",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFUaNe4FjnaYwpAsbpkFw-6Qsv7LzZHQkjiUotEL9aDhAJN0lidIdbj1empYeebdCob0&usqp=CAU",
     "coursesName": "Innovation: the Fashion Industry",
+    "description": "An Art & Design degree includes concept creation, practical art or design skills and the implementation of industry-changing designs.",
+    "rating": {
+      "rate": 4.7,
+      "count": 300
+    },
+    "points": [
+      "Creative Technology BSc",
+      "Fashion Jewellery BA ",
+      "Fine Art BFA/BA",
+      "Graphic Design BA",
+      "History, Communication and Curation"
+    ],
     "courTeacher": [
       {
         "dcover": "./images/back.webp",
@@ -237,14 +466,26 @@
         "totalTime": "50 lectures (50 hrs)"
       }
     ],
-    "priceAll": "$20 All Course",
-    "pricePer": "$3 per month"
+    "priceAll": "$20 ",
+    "pricePer": "$3 "
   },
   {
     "id": "4",
     "_id": "xsxs18",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWuyiq52jW_hZ_NE71J0qcSAChEEpsSt645ZE_lNmn5LG0A5X60UvugVB47PEgQ8fp8Ec&usqp=CAU",
     "coursesName": "Diné Archaeology on Chacra Mesa",
+    "description": "An Art & Design degree includes concept creation, practical art or design skills and the implementation of industry-changing designs.",
+    "rating": {
+      "rate": 4.7,
+      "count": 300
+    },
+    "points": [
+      "Creative Technology BSc",
+      "Fashion Jewellery BA ",
+      "Fine Art BFA/BA",
+      "Graphic Design BA",
+      "History, Communication and Curation"
+    ],
     "courTeacher": [
       {
         "dcover": "./images/back.webp",
@@ -252,14 +493,27 @@
         "totalTime": "50 lectures (50 hrs)"
       }
     ],
-    "priceAll": "$20 All Course",
-    "pricePer": "$3 per month"
+    "priceAll": "$20 ",
+    "pricePer": "$3 "
   },
   {
     "id": "6",
     "_id": "xsxs19",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Jv8zrf4SOQRmizzqGbqHBQ23eeE5zYpKir4C1Xy_oDv3rzSQY1qwCsFc7j4pXefNBHw&usqp=CAU",
     "coursesName": "Graphic Design Masterclass Intermediate: The NEXT Level",
+    "description": "Business of UX, as well as the business contexts in which UX professionals work.",
+    "rating": {
+      "rate": 4.6,
+      "count": 400
+    },
+    "points": [
+      "Business of UX ",
+      "Careers in UX ",
+      "Hiring UX Professionals ",
+      "UX Leadership",
+      "Careers in UX ",
+      "Project Management"
+    ],
     "courTeacher": [
       {
         "dcover": "./images/back.webp",
@@ -267,14 +521,27 @@
         "totalTime": "50 lectures (50 hrs)"
       }
     ],
-    "priceAll": "$20 All Course",
-    "pricePer": "$3 per month"
+    "priceAll": "$20 ",
+    "pricePer": "$3 "
   },
   {
     "id": "6",
     "_id": "xsxs111",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU8PN7Qt1OgplAbYxA0abOnjr8d27w6XvfUcYn4oPhX_vddhx-AGu7VVkguvJ0p0yjFu0&usqp=CAU",
     "coursesName": "Enhancing Adobe Photoshop CC 2020 Skills",
+    "description": "Business of UX, as well as the business contexts in which UX professionals work.",
+    "rating": {
+      "rate": 4.6,
+      "count": 400
+    },
+    "points": [
+      "Business of UX ",
+      "Careers in UX ",
+      "Hiring UX Professionals ",
+      "UX Leadership",
+      "Careers in UX ",
+      "Project Management"
+    ],
     "courTeacher": [
       {
         "dcover": "./images/back.webp",
@@ -282,14 +549,28 @@
         "totalTime": "50 lectures (50 hrs)"
       }
     ],
-    "priceAll": "$20 All Course",
-    "pricePer": "$3 per month"
+    "priceAll": "$20 ",
+    "pricePer": "$3 "
   },
   {
     "id": "7",
     "_id": "xsxs112",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-mm5Ms347mZc87zDOBKs1GT7nvEwrhj-ULyohMLBrnrT85F5bysagG9U7wlT3qv4q5dc&usqp=CAU",
     "coursesName": "Adding Value Through Complements",
+    "description": "The administration of a business includes the performance or management of business operations and decision-making, as well as the efficient organization of people.",
+    "rating": {
+      "rate": 4.9,
+      "count": 550
+    },
+    "points": [
+      "Advertising",
+      "Business Planning",
+      "Customer Service",
+      "E-Commerce",
+      "Inventory Control",
+      "Record Keeping",
+      "Social Media"
+    ],
     "courTeacher": [
       {
         "dcover": "./images/back.webp",
@@ -297,14 +578,28 @@
         "totalTime": "50 lectures (50 hrs)"
       }
     ],
-    "priceAll": "$20 All Course",
-    "pricePer": "$3 per month"
+    "priceAll": "$20 ",
+    "pricePer": "$3 "
   },
   {
     "id": "7",
     "_id": "xsxs113",
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8sRPYOip1KdXqXY5r2GvEUwtK-V5XxL4xjmmwMxhWZN5vgtl9CZdbw611_HU5q_jxcG0&usqp=CAU",
     "coursesName": "Competing with Network Effects",
+    "description": "The administration of a business includes the performance or management of business operations and decision-making, as well as the efficient organization of people.",
+    "rating": {
+      "rate": 4.9,
+      "count": 550
+    },
+    "points": [
+      "Record Keeping",
+      "Advertising",
+      "Business Planning",
+      "Customer Service",
+      "E-Commerce",
+      "Inventory Control",
+      "Social Media"
+    ],
     "courTeacher": [
       {
         "dcover": "./images/back.webp",
@@ -312,14 +607,28 @@
         "totalTime": "50 lectures (50 hrs)"
       }
     ],
-    "priceAll": "$20 All Course",
-    "pricePer": "$3 per month"
+    "priceAll": "$20 ",
+    "pricePer": "$3 "
   },
   {
     "id": "7",
     "_id": "xsxs114",
     "cover": "https://prod-discovery.edx-cdn.org/media/course/image/1c30e9b3-78ee-4c57-9af9-922153073d99-9ee0f4e21475.small.jpg",
     "coursesName": " Mastering Productivity",
+    "description": "The administration of a business includes the performance or management of business operations and decision-making, as well as the efficient organization of people.",
+    "rating": {
+      "rate": 4.9,
+      "count": 550
+    },
+    "points": [
+      "Business Planning",
+      "Advertising",
+      "Customer Service",
+      "E-Commerce",
+      "Inventory Control",
+      "Record Keeping",
+      "Social Media"
+    ],
     "courTeacher": [
       {
         "dcover": "./images/back.webp",
@@ -327,7 +636,7 @@
         "totalTime": "50 lectures (50 hrs)"
       }
     ],
-    "priceAll": "$20 All Course",
-    "pricePer": "$3 per month"
+    "priceAll": "$20 ",
+    "pricePer": "$3 "
   }
 ]
