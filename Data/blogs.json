@@ -1,0 +1,30 @@
+[
+    {
+      "id": "1",
+      "date": "OCT. 26, 2022",
+      "title": "What Is CORS?",
+      "desc": "Cross-origin resource sharing (CORS) is a browser security feature that restricts cross-origin HTTP requests that are initiated from scripts running in the browser. If your REST API's resources receive non-simple cross-origin HTTP requests, you need to enable CORS support.",
+      "cover": "https://nordicapis.com/wp-content/uploads/What-is-CORS-.png"
+    },
+    {
+      "id": "2",
+      "date": "OCT. 26, 2022",
+      "title": "Why are you using firebase? What other options do you have to implement authentication?",
+      "desc": "Google Firebase is a Google-backed application development software that enables developers to develop iOS, Android and Web apps. Firebase provides tools for tracking analytics, reporting and fixing app crashes, creating marketing and product experiment.The Alternatives for firebase are: 1. Back4app. 2. Parse. 3.AWS Amplify. 4. BackendLess",
+      "cover": "https://www.tristatetechnology.com/tristate-website/blog/wp-content/uploads/2019/06/firebase11.jpg"
+    },
+    {
+      "id": "3",
+      "date": "OCT. 26, 2022",
+      "title": "How does the private route work?",
+      "desc": "The private route component is similar to the public route, the only change is that redirect URL and authenticate condition.If the user is not authenticated he will be redirected to the login page and the user can only access the authenticated routes If he is authenticated (Logged in",
+      "cover": "https://i.ytimg.com/vi/99RWZsEITx4/maxresdefault.jpg"
+    },
+    {
+      "id": "4",
+      "date": "OCT. 26, 2022",
+      "title": "What is Node? How does Node work?",
+      "desc": "Node.js is a JavaScript runtime environment that achieves low latency and high throughput by taking a “non-blocking” approach to serving requests. In other words, Node.js wastes no time or resources on waiting for I/O requests to return.",
+      "cover": "https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/777184/secure-rest-api-in-nodejs-18f43b3033c239da5d2525cfd9fdc98f.png"
+    }
+  ]

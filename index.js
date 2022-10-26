@@ -6,7 +6,9 @@ app.use(cors());
 const Port = process.env.port || 5000;
 
 const courses = require("./Data/courses.json");
-const coursesCollection = require('./Data/coursescollection.json')
+const coursesCollection = require('./Data/coursescollection.json');
+const blogs = require("./Data/blogs.json");
+
 
 app.get('/', (req, res) =>{
     res.send(courses)
@@ -28,9 +30,14 @@ app.get("/:id", (req, res) =>{
 
 app.get('/details/:id', (req, res)=> {
     const id = req.params.id;
-    const match = coursesCollection.find(e => e._id ===id)
+    const match = coursesCollection.find(e => e._id === id)
     res.send(match)
 }) 
+
+app.get("/blogs/allblogs" , (req, res) => {
+    res.send(blogs)
+})
+
 
 
 app.listen(Port, ()=>{
