@@ -1,35 +1,43 @@
 [
     {
       "id": "1",
-      "name": "UI/UX Design Courses"
+      "name": "UI/UX Design Courses",
+      "img": "https://w10.naukri.com/mailers/2021/naukri-learning/oct/27oct/What-is-UI-UX-Design.jpg"
     },
     {
       "id": "2",
-      "name": "Art & Design"
+      "name": "Art & Design",
+      "img": "https://cdn-ecbjf.nitrocdn.com/trFSLbdBEIFWvubMBbeHotqYSOVJJYEv/assets/static/optimized/rev-f8cdbc8/blog/wp-content/uploads/2020/02/40-BEST-WEBSITE-DESIGNS-2022.jpg"
     },
     {
       "id": "3",
-      "name": "Computer Science"
+      "name": "Computer Science",
+      "img": "https://w10.naukri.com/mailers/2021/naukri-learning/oct/27oct/What-is-UI-UX-Design.jpg"
     },
     {
       "id": "4",
-      "name": "History & Archeologic"
+      "name": "History & Archeologic",
+      "img": ""
     },
     {
       "id": "5",
-      "name": "Software Engineering"
+      "name": "Software Engineering",
+      "img": "https://www.pgsuae.com/wp-content/uploads/2022/06/web-design-trends-2022-dubai.jpg"
     },
 
     {
       "id": "6",
-      "name": "Graphic Design"
+      "name": "Graphic Design",
+      "img": "https://img.freepik.com/free-vector/cartoon-web-design-landing-page_52683-70880.jpg?w=2000"
     },
     {
       "id": "7",
-      "name": "Business Administration"
+      "name": "Business Administration",
+      "img": ""
     },
     {
       "id": "0",
-      "name": "All Courses"
+      "name": "All Courses",
+      "img": "https://www.cloudways.com/blog/wp-content/uploads/20-Best-Web-Design-Tools-for-Design-Agencies.jpg"
     }
   ]
